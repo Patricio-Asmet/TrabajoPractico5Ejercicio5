@@ -1,0 +1,21 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.cronometro {
+    text-align: center;
+}
+
+#display {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 5px;
+}
